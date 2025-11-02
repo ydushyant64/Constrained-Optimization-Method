@@ -1,0 +1,8 @@
+sequence 	 Function_evaluation
+1 				 38
+2 				 1999
+3 				 138
+4 				 98
+5 				 98
+6 				 178
+7 				 178
